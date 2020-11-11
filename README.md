@@ -1,1 +1,4 @@
-# Data-Integration-and-ETL
+## Credit
+- Professor: Amarnath Gupta
+- Course: DSE203
+- University: UCSD
